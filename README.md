@@ -5,7 +5,7 @@ This app is designed to drop right into the root folder of a web server and 'jus
 
 ## Getting Started
 
-Clone the repo into the root of your website. It really is that simple. 
+Clone the repo into the root of your website. It really is that simple.
 
 ### Prerequisites
 
@@ -13,7 +13,7 @@ PHP on the host server, and a general understanding of JQuery, AJAX, and PHP.
 
 ## Authors
 
-* **X3r0byte** - *Initial work* - [X3r0byte](https://github.com/PurpleBooth)
+* **X3r0byte** - *Initial work* - [X3r0byte](https://github.com/X3r0byte/)
 
 ## License
 
