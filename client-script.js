@@ -25,7 +25,8 @@ $(document).ready(function () {
             console.log("pinging for new comments: " + (postLength != data.length));
             if ((postLength != data.length)) {
                 $("#comments").load("comments.txt?v=1");
-                $("#comments").hide().fadeIn('slow');
+                // apparently this glitches browsers to not update div content
+                // $("#comments").hide().fadeIn('slow');
                 $('.comment-container').animate({
                     scrollTop: 9999999999
                 }, 'fast');
