@@ -6,7 +6,7 @@ $datetime = date("m/d") . " " . date("h:ia");
 $comment = stripslashes($_POST['comment']);
 $user = stripslashes($_POST['user']);
 // construct post
-$post = "\r" . " " . $user . " @ " . $datetime . " » " . $comment . "\r";
+$post = "\r\n" . " " . $user . " @ " . $datetime . " » " . $comment . "\r";
 // if no user or comment
 if (empty($comment) || empty($user)){
     // nothing
