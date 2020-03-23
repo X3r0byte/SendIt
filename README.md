@@ -18,3 +18,7 @@ PHP on the host server, and a general understanding of JQuery, AJAX, and PHP.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Disclaimer
+
+There is literally ZERO security precautions taken in this project. The idea is to give a small working sample of a real time chat app. You've been warned.
