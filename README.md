@@ -1,11 +1,11 @@
 # SendIt
 
 A lightweight chat webapp written in php and jquery!
-This app is designed to drop right into the root folder of a web server and 'just work', assuming the server is set up with PHP (what server isn't?)
+This app is designed to drop into your code anywhere you have javascript/php. 
 
 ## Getting Started
 
-Clone the repo into the root of your website. It really is that simple.
+Clone or copy/paste the project into your web app!
 
 ### Prerequisites
 
@@ -21,4 +21,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Disclaimer
 
-There is literally ZERO security precautions taken in this project. The idea is to give a small working sample of a real time chat app. You've been warned.
+There is literally ZERO security precautions taken in this project. The idea is to give a small working sample of a real time chat app to build around. Do not copy and paste this into a production server and expect it to not be a huge vulnerability. You've been warned.
