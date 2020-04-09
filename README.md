@@ -9,7 +9,7 @@ Clone or copy/paste the project into your web app!
 
 ### Prerequisites
 
-PHP on the host server, and a general understanding of JQuery, AJAX, and PHP. 
+PHP on the host server, and a general understanding of JQuery, AJAX, and PHP.  
 
 ## Authors
 
