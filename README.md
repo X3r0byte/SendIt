@@ -1,7 +1,7 @@
 # SendIt
 
 A lightweight chat webapp written in php and jquery!
-This app is designed to drop into your code anywhere you have javascript/php. 
+This app is designed to drop into your code anywhere you have javascript/php.
 
 ## Getting Started
 
